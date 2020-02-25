@@ -1,0 +1,2 @@
+# solaris
+solaris notes

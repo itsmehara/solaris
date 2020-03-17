@@ -23,7 +23,8 @@ for j in range(5):
 ***
 **
 *
-"""    
+"""
+
 for j in range(6):
     for i in range(j,6):
         print("*", end="")
